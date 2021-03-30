@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "productName": "Tutti Frutti",
+    "image": "🍦🍦",
+    "origin": "Italy",
+    "nutrients": "49% Carbs 37% Fat 14% Protein",
+    "quantity": "500g packet",
+    "price": "220",
+    "taste": "Frutity, sweet",
+    "description": "Tutti Frutti Ice Cream is refreshingly, citrusy ice cream made from fresh squeezed orange and lemon juice with banana and candied lemon/orange peels. Summer is all about eating ice cream or ice cream is all about summer."
+  },
+  {
+    "id": 2,
+    "productName": "Vanilla Fudge",
+    "image": "🍧🍧",
+    "origin": "North America",
+    "nutrients": "fat 73%; carbs 74%; proteins 37%",
+    "quantity": "150g packet",
+    "price": "150",
+    "taste": "Rummy, pungent",
+    "description": "Vanilla is frequently used to flavor ice cream, especially in North America, Asia, and Europe. Vanilla ice cream, like other flavors of ice cream, was originally created by cooling a mixture made of cream, sugar, and vanilla above a container of ice and salt. The type of vanilla used to flavor ice cream varies by location. In North America and Europe consumers are interested in a more prominent, smoky flavor, while in Ireland they want a more anise-like flavor. To create the smooth consistency of ice cream, the mixture has to be stirred occasionally and then returned to the container of ice and salt to continue the solidification process. According to Iced: 180 Very Cool Concoctions, many people often consider vanilla to be the 'default' or 'plain' flavor of ice cream "
+  },
+  {
+    "id": 3,
+    "productName": "Blue Moon",
+    "image": "🍨🍨",
+    "origin": "Virginia, Michigan",
+    "nutrients": "44% Carbs. 50% Fat. 6% Protein",
+    "quantity": "400g packet",
+    "price": "250",
+    "taste": "marshmallowy-sweet; almond",
+    "description": "Blue moon is an ice cream flavor with bright blue coloring, available in the Upper Midwest of the United States and originating in Milwaukee, Wisconsin. The Chicago Tribune has described the ice cream as ‘Smurf-blue, marshmallow-sweet’. Blue moon ice cream is one of the flavors that make up Superman ice cream in certain states."
+  },
+  {
+    "id": 4,
+    "productName": "Peanut Butter",
+    "image": "🍨🍨",
+    "origin": "Newzealanad",
+    "nutrients": "34% Carbs. 54% Fat. 12% Protein",
+    "quantity": "450g packet",
+    "price": "200",
+    "taste": "Peanut cracker",
+    "description": "There is something so fun about this ice cream. Rich, creamy, sweet with just a hint of salt, peanut butter ice cream is a special treat—especially when topped with dark fudge sauce! Use creamy peanut butter for a smooth ice cream or crunchy for a bit of texture."
+  },
+  {
+    "id": 5,
+    "productName": "Caramel Apple",
+    "image": "🍦🍦",
+    "origin": "Hindustan",
+    "nutrients": "44% Carbs. 38% Fat. 18% Protein",
+    "quantity": "300g packet",
+    "price": "440",
+    "taste": "Apple pie",
+    "description": "Caramel Apple is a type of ice cream. It can be Sugar Free, or not. As the name suggests, there are apples, in a mixture of caramel, and ice cream. It was originally created as an Ice Cream that was Caramel, and milk only. Apparently, but not yet proven, apples fell in the mixture, and it was so popular, that is how we got Caramel Apple."
+  },
+  {
+    "id": 6,
+    "productName": "Butter Pecan",
+    "image": "🍧🍧",
+    "origin": "Australia",
+    "nutrients": "44% Carbs. 41% Fat. 15% Protein",
+    "quantity": "350g packet",
+    "price": "490",
+    "taste": "Butter scotch",
+    "description": "Butter pecan ice cream is smooth vanilla ice cream with a slight buttery flavor, with pecans added. It is manufactured by many major ice cream brands. A variant of the recipe is butter almond, which replaces the pecans with almonds. "
+  }
+]
