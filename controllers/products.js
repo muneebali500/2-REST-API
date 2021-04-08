@@ -1,4 +1,4 @@
-import Products from "../db/connect.js";
+import Products from "../models/products.js";
 
 // ADD A NEW PRODUCT INTO DATABASE
 export const addProduct = async (req, res) => {
